@@ -1,11 +1,16 @@
 ################################## Match Importance Project #########################################
 #
-# Author:
+# Authors:
 # Sandro Heiniger
 # Swiss Institute for Empirical Economic Research
 # University St. Gallen
 # sandro.heiniger@unisg.ch
 #
+# Daniel Goller
+# Swiss Institute for Empirical Economic Research
+# University St. Gallen
+# daniel.goller@unisg.ch
+
 ######  Version: 21.06.2022
 
 
